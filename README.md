@@ -1,1 +1,1 @@
-# Artix-Install
+# Базовая установка Artix Linux
